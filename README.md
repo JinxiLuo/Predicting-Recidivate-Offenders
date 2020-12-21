@@ -1,6 +1,6 @@
 # Predicting-Recidivate-Offenders
 
-**Themes**: SAS, Python, Feature Creation, Predicting Recidivism and Multiple Models Comparison.
+**Themes**: SAS, Python, Data Analysis, Feature Creation, Predicting Recidivism and Multiple Models Comparison.
 
 ### Project Summary
 
