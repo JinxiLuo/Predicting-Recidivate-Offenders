@@ -2,7 +2,7 @@
 
 Themes: SAS, Python, Feature Creation, Predicting Recvidisum, Decision Trees, SVM, Random Forest, Neural Network and Ensemble Models
 
-<font size="7">**Project Summary**</font>
+**Project Summary**
 
 This project provides an example of the work layout that I use for my reports, which is avalible for viewing in the two pdfs attached (Part 1 and 2 of Predicting Recidvate Offenders).
 
