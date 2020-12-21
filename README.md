@@ -15,9 +15,15 @@ uouoi
 **Structure and Procedures**
 
  1. Data cleaning, feature enginerring and selection
-    ssef
+ 
+    *New features are created from combinations of categorical varaibles, and dates. AUC and L1 Regression is used from the SciKitlearn Python Libarary to evaluate and choose a smaller subset of features with as high or higher AUC using a decision tree with default parameters to reduce overfitting. 
+    
  2. Comparing multiple decision trees in SAS
      
+     *Multiple subsets of data set features and decision tree parameters were evaluated to examine the most effective features and parameters to use.
+     
  3. Using more complicated models compare predictive accuraries. 
+ 
+     *Random Forest, SVM, Neural Network and Ensemble models are compared using the previous step's data and best decision tree found varying respective major model parameters to determine the best predictive model to use. 
 
 
