@@ -12,11 +12,13 @@ The goal for the project was to predict general offender recvidisum using the CO
 
 uouoi
 
-**Structure and methods**
+**Structure and Procedures**
+
 /*:
-  1. Cat
-  2. Dog
+  1. Data cleaning, feature enginerring and selection
+    ssef
+  2. Comparing multiple decision trees in SAS
      
-  3. Llama
+  3. Using more complicated models compare predictive accuraries. 
  */
 
