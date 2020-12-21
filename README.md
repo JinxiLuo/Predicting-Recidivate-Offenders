@@ -1,8 +1,8 @@
 # Predicting-Recidvate-Offenders
 
-Themes: SAS, Predicting recvidisum, Decision Trees, SVM, Random Forest, Neural Network and Ensemble Models
+Themes: SAS, Python, Feature Creation, Predicting Recvidisum, Decision Trees, SVM, Random Forest, Neural Network and Ensemble Models
 
-**Project Summary**
+<font size="+2">**Project Summary**</font>
 
 This project provides an example of the work layout that I use for my reports, which is avalible for viewing in the two pdfs attached (Part 1 and 2 of Predicting Recidvate Offenders).
 
@@ -14,11 +14,10 @@ uouoi
 
 **Structure and Procedures**
 
-/*:
-  1. Data cleaning, feature enginerring and selection
+ 1. Data cleaning, feature enginerring and selection
     ssef
-  2. Comparing multiple decision trees in SAS
+ 2. Comparing multiple decision trees in SAS
      
-  3. Using more complicated models compare predictive accuraries. 
- */
+ 3. Using more complicated models compare predictive accuraries. 
+
 
